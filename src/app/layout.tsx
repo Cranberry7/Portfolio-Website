@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     title: "Shaurya Agrawal — AI Data Engineer Portfolio",
     description:
       "Portfolio of Shaurya Agrawal, an AI Data Engineer specializing in RAG pipelines, multi-agent systems, and secure infrastructure. View projects, experience, and get in touch.",
-    url: "https://shauryaagrawal.com", // TODO: Replace with your actual domain
+    url: "https://portfolio-website-sigma-ivory-50.vercel.app/", // TODO: Replace with your actual domain
     siteName: "Shaurya Agrawal",
     locale: "en_US",
     type: "website",
